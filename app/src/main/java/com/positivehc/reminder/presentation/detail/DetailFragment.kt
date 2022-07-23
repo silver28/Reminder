@@ -121,6 +121,7 @@ class DetailFragment : Fragment() {
 
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
                 binding.etDescription.error = null
+                viewModel.clearIsDescriptionBlankError()
             }
 
             override fun afterTextChanged(s: Editable?) {
