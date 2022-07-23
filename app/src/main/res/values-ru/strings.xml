@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="add_event">Добавить событие</string>
+    <string name="cancel">Отмена</string>
+    <string name="event">Событие</string>
+    <string name="description">Описание</string>
+    <string name="date">Дата:</string>
+    <string name="time">Время:</string>
+    <string name="changed_event_cancel_title">Отмена изменений</string>
+    <string name="changed_event_cancel_message">Отменить изменения и выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="blank_description_error">Описание должно быть заполнено</string>
+    <string name="delete_event_title">Удаление события</string>
+    <string name="delete_event_message">Удалить событие и выйти?</string>
+</resources>
